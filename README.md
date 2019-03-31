@@ -1,2 +1,2 @@
-# VtigerCRM
-VtigerCRM6.5中文分支
+# Vtiger-CRM
+VtigerCRM7.1中文分支
